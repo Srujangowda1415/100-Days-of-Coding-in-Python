@@ -6,6 +6,11 @@ now we will be coding a program which returns the max value from a list of numbe
 
 we will now be writing a code to sum up all the numbers from 1 to 100
 
+
+
+
+
+
 FIZZBUZZ
 You are going to write a program that automatically prints the solution to the FizzBuzz game. These are the rules of the FizzBuzz game:
 
