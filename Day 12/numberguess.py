@@ -1,6 +1,7 @@
 import random
 welcome_message="Hey User! Welcome to the number guessing game..."
 print(welcome_message)
+# add too low and too high
 range_question=int(input("What is the highest number you would want me to think of?\n"))
 difficulty=input("Choose difficulty: easy,medium or hard\n").lower()
 print("I am thinking of a number........")
